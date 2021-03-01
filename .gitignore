@@ -15,7 +15,7 @@
 .mtj.tmp/
 
 #Target Maven
-target/
+/target
 
 
 # Package Files #
